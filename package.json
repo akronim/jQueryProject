@@ -1,0 +1,19 @@
+{
+  "name": "jqueryproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akronim/jqueryproject.git"
+  },
+  "author": "MM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akronim/jqueryproject/issues"
+  },
+  "homepage": "https://github.com/akronim/jqueryproject#readme"
+}
