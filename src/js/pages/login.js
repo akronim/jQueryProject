@@ -56,5 +56,5 @@ let handleLogin = function (options) {
 };
 
 // git add .
-// git commit -a -m "commit" (do not need commit message either)
+// git commit -m "commit" (do not need commit message either)
 // git push

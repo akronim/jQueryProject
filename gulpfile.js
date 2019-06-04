@@ -35,6 +35,7 @@ function js() {
         'node_modules/jquery/dist/jquery.js',
         'node_modules/parsleyjs/dist/parsley.js',
         'node_modules/parsleyjs/dist/i18n/hr.js',
+        'node_modules/moment/min/moment.min.js',
         src + 'js/**/*'
     ]) // gdje da traži js datoteke
         .pipe(newer(out)) // ima li razlika između source-a i build-a
